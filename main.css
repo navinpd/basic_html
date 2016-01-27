@@ -2,5 +2,5 @@ p{
 	font-family: Arial;
 	font-weight: 500;
 	font-size: 22;
-	font:bold italic 24px tahoma; <!-- font formal is important-->
+	font:bold italic 24px tahoma; /* font formal is important */
 }
