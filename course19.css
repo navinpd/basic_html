@@ -1,0 +1,15 @@
+div{
+	height: 1000px;
+
+	/*background-color: rgb(92,255,28); /*#00ffaa;*/
+}
+
+body{
+
+	background-image: url(img.png);
+	background-repeat: repeat;
+	background-position: center top;
+	background-attachment: fixed; /* Fixed the image position even if you scroll page */
+	background-color: orange;
+	/*background-size:cover;  Covers full screen*/
+}
